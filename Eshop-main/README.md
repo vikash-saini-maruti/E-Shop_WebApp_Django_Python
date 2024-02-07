@@ -27,12 +27,12 @@ Sure, here are the steps rewritten for clarity:
    ```
    python repoinstall.py
    ```
-   {OR}
-
+  >>OR 
+`
     In such cases, you can manually install the required libraries by running:
-
+```
    pip install -r requirements.txt
-
+```
   Note :- 
    
    If any library still gives an error, install it manually by running:
@@ -41,8 +41,7 @@ Sure, here are the steps rewritten for clarity:
    
    ```
   Replace `examplelibrary` with the name of the library causing the error.
-   ```
-   ```
+
 
 These steps should help you set up and install the required dependencies for the repository.
 
