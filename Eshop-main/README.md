@@ -23,10 +23,11 @@ Sure, here are the steps rewritten for clarity:
      source myenv/bin/activate
      ```
 6. Once the virtual environment is activated, execute the following command in the terminal window to install all dependencies automatically, If any library installation fails, the script will notify you upon completion.:
+
    ```
    python repoinstall.py
    ```
-   >>OR
+   {OR}
 
     In such cases, you can manually install the required libraries by running:
 
