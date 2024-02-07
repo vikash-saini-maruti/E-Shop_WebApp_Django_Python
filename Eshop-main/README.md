@@ -33,20 +33,24 @@ Sure, here are the steps rewritten for clarity:
    pip install -r requirements.txt
 
    >>Note >>
+   >>If any library still gives an error, install it manually by running:
    ```
-   If any library still gives an error, install it manually by running:
+    pip install examplelibrary
+   
    ```
-   pip install examplelibrary
+  Replace `examplelibrary` with the name of the library causing the error.
    ```
-   Replace `examplelibrary` with the name of the library causing the error.
+   ```
 
 These steps should help you set up and install the required dependencies for the repository.
 
 
-
-7. Type python manage.py runserver to start a localhost server for the app.
-8. Admin URL, ID, and password is ( where can be access from admin side like add product punch mark delivered etc ) 
+7. Type ``` python manage.py runserver ``` to start a localhost server for the app.
+   
+9. Admin URL, ID, and password is ( where can be access from admin side like add product punch mark delivered etc ). 
+>>
+```
 default_url/admin/ ( example - http://127.0.0.1:8000/admin/)
 ID- vikash
 Pass- vikash
-
+```
