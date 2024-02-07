@@ -32,7 +32,7 @@ Sure, here are the steps rewritten for clarity:
 
    pip install -r requirements.txt
 
-   >>Note >>
+   >>Note
 If any library still gives an error, install it manually by running:
    ```
     pip install examplelibrary
