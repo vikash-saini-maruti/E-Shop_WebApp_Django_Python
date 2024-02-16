@@ -39,12 +39,14 @@ Here are the steps rewritten for clarity:
 1. Clone the repository into a folder on your computer.
 2. Download and install Python from the official website.
 3. Open a terminal or command prompt window and navigate to the folder containing the cloned repository.
-4. Create a virtual environment by running the following command in the terminal window:
+    Note:- Open VS Code or any terminal and code editor. Make sure the terminal is in the same directory as the `manage.py` file.
+5. **Set Up a Virtual Environment**:
+Create a virtual environment by running the following command in the terminal window:
    ```
    python -m venv myenv
    ```
    Replace `myenv` with the name you want to give to your virtual environment.
-5. Activate the virtual environment by running the appropriate command based on your operating system:
+6. Activate the virtual environment by running the appropriate command based on your operating system:
    - On Windows:
      ```
      myenv\Scripts\activate
@@ -53,7 +55,7 @@ Here are the steps rewritten for clarity:
      ```
      source myenv/bin/activate
      ```
-6. Once the virtual environment is activated, execute the following command in the terminal window to install all dependencies automatically, If any library installation fails, the script will notify you upon completion.:
+7. Once the virtual environment is activated, execute the following command in the terminal window to install all dependencies automatically, If any library installation fails, the script will notify you upon completion.:
 
    ```
    python repoinstall.py
@@ -76,10 +78,20 @@ Here are the steps rewritten for clarity:
 
 These steps should help you set up and install the required dependencies for the repository.
 
+8. **Run Migrations**:
+   ```
+   python manage.py makemigrations
+   ```
 
-7. Type ``` python manage.py runserver ``` to start a localhost server for the app.
+9. **Apply Migrations**:
+   ```
+   python manage.py migrate
+   ```
+
+
+10. Type ``` python manage.py runserver ``` to start a localhost server for the app.
    
-9. Admin URL, ID, and password is ( where can be access from admin side like add product punch mark delivered etc ). 
+11. Admin URL, ID, and password is ( where can be access from admin side like add product punch mark delivered etc ). 
 >>
 ```
 default_url/admin/ ( example - http://127.0.0.1:8000/admin/)
