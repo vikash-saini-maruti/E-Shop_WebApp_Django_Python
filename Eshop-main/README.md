@@ -1,7 +1,7 @@
 # E-Shop
 This project involves the creation of an E-Shop Website, a virtual platform where users can browse and purchase a variety of products. The website presents users with a catalog of available items for sale and includes a shopping cart feature for easy online shopping. Once users have selected their desired products, they can proceed to the order confirmation process. The system is developed using Django, a Python web framework. Created by Vikash Saini
 
-Installation  :- ( Installation mentioned after Features section via start from 36 No. line )
+Installation  :- ( Installation mentioned after Features section  )
 
 
 ---------------------------------------------------------------------------
