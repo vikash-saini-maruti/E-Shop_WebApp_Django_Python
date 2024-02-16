@@ -19,14 +19,11 @@ Installation  :- ( Installation mentioned after Features section  )
 ### Key Points:
 - **Security:** Implements security measures to protect user data and prevent unauthorized access.
 - **Scalability:** Designed to handle a large number of products and users, with scalability in mind for future growth.
-- **SEO-Friendly:** Optimized for search engines to improve visibility and attract organic traffic.
 - **Analytics Integration:** Integrates with analytics tools to track user behavior and gather insights for optimization.
 - **Customization Options:** Provides options for customization, such as themes and branding, to suit the needs of different businesses.
 - **Performance Optimization:** Optimizes performance to ensure fast loading times and smooth user experience.
 - **Documentation:** Includes comprehensive documentation to help developers understand and extend the functionality of the project.
-- **Testing:** Includes unit tests and possibly integration tests to ensure the reliability and functionality of the codebase.
-- **Continuous Integration/Continuous Deployment (CI/CD):** Implements CI/CD pipelines to automate the testing and deployment process, ensuring a more efficient development workflow.
-
+-
 
 
 
