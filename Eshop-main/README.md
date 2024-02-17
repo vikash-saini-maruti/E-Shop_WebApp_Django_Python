@@ -1,6 +1,12 @@
 # E-Shop_Django_Web_Project By_Vikash_Saini
 This project involves the creation of an E-Shop Website, a virtual platform where users can browse and purchase a variety of products. The website presents users with a catalog of available items for sale and includes a shopping cart feature for easy online shopping. Once users have selected their desired products, they can proceed to the order confirmation process. The system is developed using Django, a Python web framework.
 Installation  :- ( Installation mentioned after Features section  )
+------------------------------------------------------------------------
+
+SCREENSHOTS WITH UI/UX
+
+![alt text](<screenshots/Screenshot 2024-02-18 005358.png>) ![alt text](<screenshots/Screenshot 2024-02-18 005453.png>) ![alt text](<screenshots/Screenshot 2024-02-18 005501.png>) ![alt text](<screenshots/Screenshot 2024-02-18 005526.png>) ![alt text](<screenshots/Screenshot 2024-02-18 005806.png>) ![alt text](<screenshots/Screenshot 2024-02-18 005829.png>) ![alt text](<screenshots/Screenshot 2024-02-18 005836.png>) ![alt text](<screenshots/Screenshot 2024-02-18 005940.png>)
+
 
 
 ---------------------------------------------------------------------------
@@ -15,6 +21,16 @@ Installation  :- ( Installation mentioned after Features section  )
 8. **Shipping Options:** Offers a selection of shipping methods and calculates shipping costs based on user preferences.
 9. **Responsive Customer Support:** Provides a way for users to contact customer support for assistance or inquiries.
 10. **Multi-Language Support:** Supports multiple languages to cater to a global audience.
+
+
+---------------------------------------------------------------------------------------------------
+    ADMIN PORTAL'S SCREENSHOTS
+ 
+ ![alt text](<screenshots/Screenshot 2024-02-18 010027.png>) ![alt text](<screenshots/Screenshot 2024-02-18 010056.png>) ![alt text](<screenshots/Screenshot 2024-02-18 010143.png>) ![alt text](<screenshots/Screenshot 2024-02-18 010215.png>) ![alt text](<screenshots/Screenshot 2024-02-18 010236.png>) ![alt text](<screenshots/Screenshot 2024-02-18 010328.png>) ![alt text](<screenshots/Screenshot 2024-02-18 010420.png>) ![alt text](<screenshots/Screenshot 2024-02-18 010446.png>)
+
+
+--------------------------------------------------------------------------------------------------
+
 
 ### Key Points:
 - **Security:** Implements security measures to protect user data and prevent unauthorized access.
@@ -90,3 +106,11 @@ Pass- vikash
 
 
 ---------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
