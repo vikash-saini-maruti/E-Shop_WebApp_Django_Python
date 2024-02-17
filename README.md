@@ -7,9 +7,9 @@ Installation  :- ( Installation mentioned after Features section  )
  These are UI screen shots 
 
 
- ![alt text](<Screenshot 2024-02-18 010056.png>) ![alt text](<Screenshot 2024-02-18 010143.png>) ![alt text](<Screenshot 2024-02-18 010215.png>) ![alt text](<Screenshot 2024-02-18 010236.png>) ![alt text](<Screenshot 2024-02-18 010328.png>) ![alt text](<Screenshot 2024-02-18 010420.png>) ![alt text](<Screenshot 2024-02-18 010446.png>) ![alt text](<Screenshot 2024-02-18 005358.png>)
+![alt text](<Screenshot 2024-02-18 005453.png>) ![alt text](<Screenshot 2024-02-18 005501.png>) ![alt text](<Screenshot 2024-02-18 005526.png>) ![alt text](<Screenshot 2024-02-18 005806.png>) ![alt text](<Screenshot 2024-02-18 005829.png>) ![alt text](<Screenshot 2024-02-18 005836.png>) ![alt text](<Screenshot 2024-02-18 005940.png>) ![alt text] ![alt text](<Screenshot 2024-02-18 005358.png>)
 
- (Admin Screenshots  are on the ending section of read.md )
+
 ---------------------------------------------------------------------------
 ### Features:
 1. **Product Catalog (products.py):** Manages the display and categorization of products, including search and filter options.
@@ -23,6 +23,14 @@ Installation  :- ( Installation mentioned after Features section  )
 9. **Responsive Customer Support:** Provides a way for users to contact customer support for assistance or inquiries.
 10. **Multi-Language Support:** Supports multiple languages to cater to a global audience.
 
+
+-------------------------------------------------------------------------------------
+Admin Screenshots 
+
+![alt text](<Screenshot 2024-02-18 010027.png>) ![alt text](<Screenshot 2024-02-18 010056.png>) ![alt text](<Screenshot 2024-02-18 010143.png>) ![alt text](<Screenshot 2024-02-18 010215.png>) ![alt text](<Screenshot 2024-02-18 010236.png>) ![alt text](<Screenshot 2024-02-18 010328.png>) ![alt text](<Screenshot 2024-02-18 010420.png>) ![alt text](<Screenshot 2024-02-18 010446.png>)
+
+
+--------------------------------------------------------------------------------------------
 ### Key Points:
 - **Security:** Implements security measures to protect user data and prevent unauthorized access.
 - **Scalability:** Designed to handle a large number of products and users, with scalability in mind for future growth.
@@ -110,4 +118,3 @@ Admin ScreenShots
 
 screenshots 
 
-![alt text](<Screenshot 2024-02-18 005453.png>) ![alt text](<Screenshot 2024-02-18 005501.png>) ![alt text](<Screenshot 2024-02-18 005526.png>) ![alt text](<Screenshot 2024-02-18 005806.png>) ![alt text](<Screenshot 2024-02-18 005829.png>) ![alt text](<Screenshot 2024-02-18 005836.png>) ![alt text](<Screenshot 2024-02-18 005940.png>) ![alt text](<Screenshot 2024-02-18 010027.png>)
