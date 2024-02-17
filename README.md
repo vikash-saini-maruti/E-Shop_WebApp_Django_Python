@@ -1,8 +1,15 @@
 # E-Shop_Django_Web_Project By_Vikash_Saini
 This project involves the creation of an E-Shop Website, a virtual platform where users can browse and purchase a variety of products. The website presents users with a catalog of available items for sale and includes a shopping cart feature for easy online shopping. Once users have selected their desired products, they can proceed to the order confirmation process. The system is developed using Django, a Python web framework.
+
 Installation  :- ( Installation mentioned after Features section  )
+--------------------------------------------------------------------------
+
+ These are UI screen shots 
 
 
+ ![alt text](<Screenshot 2024-02-18 010056.png>) ![alt text](<Screenshot 2024-02-18 010143.png>) ![alt text](<Screenshot 2024-02-18 010215.png>) ![alt text](<Screenshot 2024-02-18 010236.png>) ![alt text](<Screenshot 2024-02-18 010328.png>) ![alt text](<Screenshot 2024-02-18 010420.png>) ![alt text](<Screenshot 2024-02-18 010446.png>) ![alt text](<Screenshot 2024-02-18 005358.png>)
+
+ (Admin Screenshots  are on the ending section of read.md )
 ---------------------------------------------------------------------------
 ### Features:
 1. **Product Catalog (products.py):** Manages the display and categorization of products, including search and filter options.
@@ -99,8 +106,8 @@ Pass- vikash
 
 
 ---------------------------------------------------------------------------------
-
+Admin ScreenShots
 
 screenshots 
 
-![alt text](<Screenshot 2024-02-18 005453.png>) ![alt text](<Screenshot 2024-02-18 005501.png>) ![alt text](<Screenshot 2024-02-18 005526.png>) ![alt text](<Screenshot 2024-02-18 005806.png>) ![alt text](<Screenshot 2024-02-18 005829.png>) ![alt text](<Screenshot 2024-02-18 005836.png>) ![alt text](<Screenshot 2024-02-18 005940.png>) ![alt text](<Screenshot 2024-02-18 010027.png>) ![alt text](<Screenshot 2024-02-18 010056.png>) ![alt text](<Screenshot 2024-02-18 010143.png>) ![alt text](<Screenshot 2024-02-18 010215.png>) ![alt text](<Screenshot 2024-02-18 010236.png>) ![alt text](<Screenshot 2024-02-18 010328.png>) ![alt text](<Screenshot 2024-02-18 010420.png>) ![alt text](<Screenshot 2024-02-18 010446.png>) ![alt text](<Screenshot 2024-02-18 005358.png>)
+![alt text](<Screenshot 2024-02-18 005453.png>) ![alt text](<Screenshot 2024-02-18 005501.png>) ![alt text](<Screenshot 2024-02-18 005526.png>) ![alt text](<Screenshot 2024-02-18 005806.png>) ![alt text](<Screenshot 2024-02-18 005829.png>) ![alt text](<Screenshot 2024-02-18 005836.png>) ![alt text](<Screenshot 2024-02-18 005940.png>) ![alt text](<Screenshot 2024-02-18 010027.png>)
